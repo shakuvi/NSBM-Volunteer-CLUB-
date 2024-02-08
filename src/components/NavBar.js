@@ -83,11 +83,15 @@ export const NavBar = () => {
                   <img src={navIcon3} alt="" />
                 </a>
               </div>
-              <HashLink to="#connect">
-                <button className="vvd">
-                  <span>Let’s Connect</span>
-                </button>
-              </HashLink>
+              <button
+                className="vvd"
+                onClick={() =>
+                  (window.location.href =
+                    "https://chat.whatsapp.com/GBUi9fW2u1A46GMNycbVMI")
+                }
+              >
+                <span>Let’s Connect</span>
+              </button>
             </span>
           </Navbar.Collapse>
         </Container>

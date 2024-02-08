@@ -11,6 +11,9 @@ import projImg8 from "../assets/img/project-img8.png";
 import projImg9 from "../assets/img/project-img9.png";
 import projImg10 from "../assets/img/project-img10.png";
 import projImg11 from "../assets/img/project-img11.png";
+import projImg12 from "../assets/img/project-img12.png";
+import projImg13 from "../assets/img/project-img13.png";
+import projImg14 from "../assets/img/project-img14.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -77,6 +80,21 @@ export const Projects = () => {
       title: "Ms. Shehani Joseph",
       description: "Lecturer - Faculty of Business",
       imgUrl: projImg11,
+    },
+    {
+      title: "Ms. Shehani Joseph",
+      description: "Lecturer - Faculty of Business",
+      imgUrl: projImg12,
+    },
+    {
+      title: "Ms. Shehani Joseph",
+      description: "Lecturer - Faculty of Business",
+      imgUrl: projImg13,
+    },
+    {
+      title: "Ms. Shehani Joseph",
+      description: "Lecturer - Faculty of Business",
+      imgUrl: projImg14,
     },
   ];
 
