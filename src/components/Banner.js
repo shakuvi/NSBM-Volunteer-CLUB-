@@ -84,10 +84,10 @@ export const Banner = () => {
                   <button
                     onClick={() =>
                       (window.location.href =
-                        "https://chat.whatsapp.com/JBNrRGnt3faA1T0qK6VszN")
+                        "https://forms.gle/C6vJzh5QAmPTcVRK9")
                     }
                   >
-                    Let’s Connect <ArrowRightCircle size={25} />
+                    Google Form <ArrowRightCircle size={25} />
                   </button>
                 </div>
               )}
