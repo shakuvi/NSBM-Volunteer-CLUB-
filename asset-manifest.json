@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/NSBM-Volunteer-CLUB-/static/css/main.8ddf7338.css",
-    "main.js": "/NSBM-Volunteer-CLUB-/static/js/main.88471373.js",
+    "main.js": "/NSBM-Volunteer-CLUB-/static/js/main.582816c2.js",
     "static/js/787.fb771931.chunk.js": "/NSBM-Volunteer-CLUB-/static/js/787.fb771931.chunk.js",
     "static/media/header-img.svg": "/NSBM-Volunteer-CLUB-/static/media/header-img.745a11531bce21c6df5b80b953385731.svg",
-    "static/media/project-img9.png": "/NSBM-Volunteer-CLUB-/static/media/project-img9.f8172b29751aefd8e387.png",
-    "static/media/project-img11.png": "/NSBM-Volunteer-CLUB-/static/media/project-img11.eae3dc104bfa9a92a171.png",
-    "static/media/project-img10.png": "/NSBM-Volunteer-CLUB-/static/media/project-img10.178493df293691767799.png",
-    "static/media/project-img7.png": "/NSBM-Volunteer-CLUB-/static/media/project-img7.4584bb919b72ba953d94.png",
-    "static/media/project-img6.png": "/NSBM-Volunteer-CLUB-/static/media/project-img6.56d06e5e7099a8f1b328.png",
-    "static/media/project-img8.png": "/NSBM-Volunteer-CLUB-/static/media/project-img8.881b7d9758bc81ad34e8.png",
     "static/media/color-sharp.png": "/NSBM-Volunteer-CLUB-/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/NSBM-Volunteer-CLUB-/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img12.png": "/NSBM-Volunteer-CLUB-/static/media/project-img12.82377e5ebc116fee4bb5.png",
+    "static/media/project-img8.png": "/NSBM-Volunteer-CLUB-/static/media/project-img8.07183421b7cbf24e5f59.png",
+    "static/media/project-img9.png": "/NSBM-Volunteer-CLUB-/static/media/project-img9.b253549c8f112d778530.png",
+    "static/media/project-img14.png": "/NSBM-Volunteer-CLUB-/static/media/project-img14.ea5de794cbeb7c9c76cb.png",
+    "static/media/project-img13.png": "/NSBM-Volunteer-CLUB-/static/media/project-img13.fb4a93eef91f3e3576f5.png",
+    "static/media/project-img7.png": "/NSBM-Volunteer-CLUB-/static/media/project-img7.9d8382a61fda58590bd3.png",
+    "static/media/project-img11.png": "/NSBM-Volunteer-CLUB-/static/media/project-img11.7c51a1d5c79ae0c65470.png",
+    "static/media/project-img10.png": "/NSBM-Volunteer-CLUB-/static/media/project-img10.b3bbca93a8827e1a9f52.png",
     "static/media/project-img4.png": "/NSBM-Volunteer-CLUB-/static/media/project-img4.d10d64ede10994bc9a44.png",
     "static/media/project-img5.png": "/NSBM-Volunteer-CLUB-/static/media/project-img5.e29f116b56e3eb22a8dc.png",
     "static/media/project-img1.png": "/NSBM-Volunteer-CLUB-/static/media/project-img1.20e7e8529d664e60cf34.png",
+    "static/media/project-img6.png": "/NSBM-Volunteer-CLUB-/static/media/project-img6.ab1fd8cc5c100de7f0cb.png",
     "static/media/project-img2.png": "/NSBM-Volunteer-CLUB-/static/media/project-img2.8d9d622018aca3e46d9f.png",
     "static/media/project-img3.png": "/NSBM-Volunteer-CLUB-/static/media/project-img3.0fad4559dfcf5c0e1e98.png",
     "static/media/banner-bg.png": "/NSBM-Volunteer-CLUB-/static/media/banner-bg.cdece2edbbf992e22efd.png",
@@ -37,11 +40,11 @@
     "static/media/arrow1.svg": "/NSBM-Volunteer-CLUB-/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/NSBM-Volunteer-CLUB-/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.8ddf7338.css.map": "/NSBM-Volunteer-CLUB-/static/css/main.8ddf7338.css.map",
-    "main.88471373.js.map": "/NSBM-Volunteer-CLUB-/static/js/main.88471373.js.map",
+    "main.582816c2.js.map": "/NSBM-Volunteer-CLUB-/static/js/main.582816c2.js.map",
     "787.fb771931.chunk.js.map": "/NSBM-Volunteer-CLUB-/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ddf7338.css",
-    "static/js/main.88471373.js"
+    "static/js/main.582816c2.js"
   ]
 }
