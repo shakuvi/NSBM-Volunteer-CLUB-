@@ -33,13 +33,13 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Ms. Isuri Anuradha",
-      description: "Mistresss In Charge",
+      title: "Mrs. Prasanshika Navodani",
+      description: "Lecture In Charge",
       imgUrl: projImg4,
     },
     {
-      title: "Mrs. Prasanshika Navodani",
-      description: "Mistresss In Charge",
+      title: "Ms. Isuri Anuradha",
+      description: "Lecture In Charge",
       imgUrl: projImg5,
     },
   ];
