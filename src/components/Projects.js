@@ -82,17 +82,17 @@ export const Projects = () => {
       imgUrl: projImg11,
     },
     {
-      title: "Ms. Shehani Joseph",
-      description: "Lecturer - Faculty of Business",
+      title: "Mr. Mohamed Rushdi Hadhi",
+      description: "MANAGER NFORCE",
       imgUrl: projImg12,
     },
     {
-      title: "Ms. Shehani Joseph",
+      title: "Mrs. Gimhani Rangalla",
       description: "Lecturer - Faculty of Business",
       imgUrl: projImg13,
     },
     {
-      title: "Ms. Shehani Joseph",
+      title: "Ms. Tharushi Piyumali",
       description: "Lecturer - Faculty of Business",
       imgUrl: projImg14,
     },
