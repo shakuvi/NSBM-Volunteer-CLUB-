@@ -86,11 +86,10 @@ export const NavBar = () => {
               <button
                 className="vvd"
                 onClick={() =>
-                  (window.location.href =
-                    "https://chat.whatsapp.com/GBUi9fW2u1A46GMNycbVMI")
+                  (window.location.href = "https://www.nsbm.ac.lk/")
                 }
               >
-                <span>Let’s Connect</span>
+                <span>Connect with NSBM</span>
               </button>
             </span>
           </Navbar.Collapse>
