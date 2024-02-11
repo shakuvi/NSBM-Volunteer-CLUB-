@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/NSBM-Volunteer-CLUB-/static/css/main.8ddf7338.css",
-    "main.js": "/NSBM-Volunteer-CLUB-/static/js/main.582816c2.js",
+    "main.css": "/NSBM-Volunteer-CLUB-/static/css/main.833a6edb.css",
+    "main.js": "/NSBM-Volunteer-CLUB-/static/js/main.b3eb06e9.js",
     "static/js/787.fb771931.chunk.js": "/NSBM-Volunteer-CLUB-/static/js/787.fb771931.chunk.js",
     "static/media/header-img.svg": "/NSBM-Volunteer-CLUB-/static/media/header-img.745a11531bce21c6df5b80b953385731.svg",
-    "static/media/color-sharp.png": "/NSBM-Volunteer-CLUB-/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/footer-bg1.png": "/NSBM-Volunteer-CLUB-/static/media/footer-bg1.11dcc04e850b7b8b5a6a.png",
     "static/media/color-sharp2.png": "/NSBM-Volunteer-CLUB-/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img9.png": "/NSBM-Volunteer-CLUB-/static/media/project-img9.7cb4f86461bcb22217f1.png",
     "static/media/project-img12.png": "/NSBM-Volunteer-CLUB-/static/media/project-img12.82377e5ebc116fee4bb5.png",
     "static/media/project-img8.png": "/NSBM-Volunteer-CLUB-/static/media/project-img8.07183421b7cbf24e5f59.png",
-    "static/media/project-img9.png": "/NSBM-Volunteer-CLUB-/static/media/project-img9.b253549c8f112d778530.png",
     "static/media/project-img14.png": "/NSBM-Volunteer-CLUB-/static/media/project-img14.ea5de794cbeb7c9c76cb.png",
     "static/media/project-img13.png": "/NSBM-Volunteer-CLUB-/static/media/project-img13.fb4a93eef91f3e3576f5.png",
     "static/media/project-img7.png": "/NSBM-Volunteer-CLUB-/static/media/project-img7.9d8382a61fda58590bd3.png",
+    "static/media/color-sharp3.png": "/NSBM-Volunteer-CLUB-/static/media/color-sharp3.08503adad50f2cbd1564.png",
     "static/media/project-img11.png": "/NSBM-Volunteer-CLUB-/static/media/project-img11.7c51a1d5c79ae0c65470.png",
     "static/media/project-img10.png": "/NSBM-Volunteer-CLUB-/static/media/project-img10.b3bbca93a8827e1a9f52.png",
     "static/media/project-img4.png": "/NSBM-Volunteer-CLUB-/static/media/project-img4.d10d64ede10994bc9a44.png",
@@ -39,12 +40,12 @@
     "static/media/arrow2.svg": "/NSBM-Volunteer-CLUB-/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/NSBM-Volunteer-CLUB-/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/NSBM-Volunteer-CLUB-/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.8ddf7338.css.map": "/NSBM-Volunteer-CLUB-/static/css/main.8ddf7338.css.map",
-    "main.582816c2.js.map": "/NSBM-Volunteer-CLUB-/static/js/main.582816c2.js.map",
+    "main.833a6edb.css.map": "/NSBM-Volunteer-CLUB-/static/css/main.833a6edb.css.map",
+    "main.b3eb06e9.js.map": "/NSBM-Volunteer-CLUB-/static/js/main.b3eb06e9.js.map",
     "787.fb771931.chunk.js.map": "/NSBM-Volunteer-CLUB-/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ddf7338.css",
-    "static/js/main.582816c2.js"
+    "static/css/main.833a6edb.css",
+    "static/js/main.b3eb06e9.js"
   ]
 }
