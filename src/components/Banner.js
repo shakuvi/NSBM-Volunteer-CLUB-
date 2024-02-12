@@ -65,7 +65,9 @@ export const Banner = () => {
                 >
                   {/* <span className="tagline">Welcome to my Portfolio</span> */}
                   <h1>
-                    {`NSBM VOLUNTEER CLUB `}
+                    <div
+                      style={{ color: "#9FE2BF" }}
+                    >{`NSBM VOLUNTEER CLUB `}</div>
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
